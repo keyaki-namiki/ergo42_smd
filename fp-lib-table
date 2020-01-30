@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name library)(type KiCad)(uri "$(KIPRJMOD)/library.pretty")(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/kbd/kbd.pretty)(options "")(descr ""))
+  (lib (name Custom_Footprint)(type KiCad)(uri /home/azami/Projects/Proto_Split/Custom_Footprint.pretty)(options "")(descr ""))
+)
